@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Screenshot
 
-![Screenshot](src/assets/Captura.PNG)
+![Screenshot](src/assets/img/Captura.PNG)
 
 ## Development server
 
