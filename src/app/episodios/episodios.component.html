@@ -1,0 +1,11 @@
+<p>Presione listados</p>
+{{episodios.length}}
+<ol>
+    <li *ngFor="let episodio of episodios">
+      <p>
+        {{ episodio.id }} • {{ episodio.name }} • Al aire {{ episodio.air_date | date }}
+      </p>
+    </li>
+  </ol>
+<img width="80%" src="assets/img/rym.png" />
+
