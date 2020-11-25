@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Screenshot
 
-![Screenshot](public/img/wallmart2.jpg)
+![Screenshot](src/assets/Captura.PNG)
 
 ## Development server
 
